@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요!! 문제에 대한 경우의 수를 생각하는 개발자 권규민입니다. 👋
 
 <!--
 **kwongyumin/kwongyumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-<div align=center><h1>Gyumin Kwon 권규민</h1></div>
+<div align=center><h1>문제에 대한 여러가지 경우의 수를 생각하는 백엔드 개발자 권규민입니다.</h1></div>
 
 ### Hi there 👋
 - 😄 I'm gyumin kwon

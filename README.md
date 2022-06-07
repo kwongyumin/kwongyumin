@@ -1,4 +1,4 @@
-<div align=center><h1>BackEnd Developer.</h1></div>
+<div align=lft><h1>BackEnd Developer.</h1></div>
 
 ### Hi there 👋
 - 😄 I'm gyumin kwon

@@ -1,7 +1,7 @@
 <div align=lft><h1>경우의 수를 생각하는 BackEnd Developer.</h1></div>
 
 ### Hi there 👋
-- 😄 I'm gyumin kwon :)
+- 😄 I'm gyumin kwon 
 - 👀 I’m interested in Java, Spring
 - 🌱 I’m currently learning Spring
 

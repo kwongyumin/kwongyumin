@@ -1,9 +1,9 @@
-<div align=lft><h1>경우의 수를 생각하는 BE_developer.</h1></div>
+<div align=lft><h1> 확장성을 생각하는 개발자 </h1></div>
 
 ### Hi there 👋
 - 😄 I'm gyumin kwon 
-- 👀 I’m interested in Java, Spring
-- 🌱 I’m currently learning Spring
+- 👀 I use Java and Spring Framework to develop
+- 🌱 Recently, I've been interested in handling large traffic
 
 <br>
 

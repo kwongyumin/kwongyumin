@@ -1,4 +1,4 @@
-<div align=lft><h1> 확장성을 생각하는 개발자 </h1></div>
+<div align=lft><h1> 확장성을 고려하는 개발자 </h1></div>
 
 ### Hi there 👋
 - 😄 I'm gyumin kwon 

@@ -1,11 +1,11 @@
-<div align="center">
+<div align="left">
   <h1>도메인을 이해하고 확장성을 고려하는 백엔드 개발자</h1>
   <p>KG파이낸셜 · 헥토데이터에서 4년+ 핀테크 백엔드 개발 경험이 있습니다.</p>
 </div>
 
 <br>
 
-## 👋 안녕하세요, 권규민입니다.
+## 👋 Hi, I'm Gyumin Kwon
 
 - ⚙️ 트랜잭션 경계, 락 전략, 동시성 이슈를 세밀하게 설계하는 것을 좋아합니다
 - 🔍 운영 장애를 임시방편 없이 근본 원인까지 파고드는 것을 원칙으로 합니다
@@ -16,10 +16,9 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kwongyumin&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwongyumin&layout=compact&theme=merko&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kwongyumin&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
